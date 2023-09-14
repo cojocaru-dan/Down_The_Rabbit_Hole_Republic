@@ -52,7 +52,7 @@ Contents
 
 
 
-CHAPTER I.
+#chapterCHAPTER I.
 Down the Rabbit-Hole
 
 
@@ -271,7 +271,7 @@ So she set to work, and very soon finished off the cake.
 
 
 
-CHAPTER II.
+#chapterCHAPTER II.
 The Pool of Tears
 
 
@@ -476,7 +476,7 @@ led the way, and the whole party swam to the shore.
 
 
 
-CHAPTER III.
+#chapterCHAPTER III.
 A Caucus-Race and a Long Tale
 
 
@@ -686,7 +686,7 @@ coming back to finish his story.
 
 
 
-CHAPTER IV.
+#chapterCHAPTER IV.
 The Rabbit Sends in a Little Bill
 
 
@@ -950,7 +950,7 @@ anything else.
 
 
 
-CHAPTER V.
+#chapterCHAPTER V.
 Advice from a Caterpillar
 
 
@@ -1249,7 +1249,7 @@ near the house till she had brought herself down to nine inches high.
 
 
 
-CHAPTER VI.
+#chapterCHAPTER VI.
 Pig and Pepper
 
 
@@ -1576,7 +1576,7 @@ I almost wish I’d gone to see the Hatter instead!”
 
 
 
-CHAPTER VII.
+#chapterCHAPTER VII.
 A Mad Tea-Party
 
 
@@ -1921,7 +1921,7 @@ and the cool fountains.
 
 
 
-CHAPTER VIII.
+#chapterCHAPTER VIII.
 The Queen’s Croquet-Ground
 
 
@@ -2229,7 +2229,7 @@ while the rest of the party went back to the game.
 
 
 
-CHAPTER IX.
+#chapterCHAPTER IX.
 The Mock Turtle’s Story
 
 
@@ -2551,7 +2551,7 @@ decided tone: “tell her something about the games now.”
 
 
 
-CHAPTER X.
+#chapterCHAPTER X.
 The Lobster Quadrille
 
 
@@ -2852,7 +2852,7 @@ came, carried on the breeze that followed them, the melancholy words:—
 
 
 
-CHAPTER XI.
+#chapterCHAPTER XI.
 Who Stole the Tarts?
 
 
@@ -3114,7 +3114,7 @@ little voice, the name “Alice!”
 
 
 
-CHAPTER XII.
+#chapterCHAPTER XII.
 Alice’s Evidence
 
 
