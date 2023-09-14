@@ -4,6 +4,6 @@
 
 ### In this project all the code is in the Program.cs file
 
-### What are you going to learn?
+### What are we going to learn?
 ### •	Use file input and output.
 ### •	Use string operations.
